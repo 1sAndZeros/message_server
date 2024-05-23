@@ -1,0 +1,10 @@
+{
+  "name": "rikiepatrick-message-web",
+  "domain": "rikiepatrick-messages.xf.mkrs.link",
+  "port": 5000,
+  "env": {
+    "APP_ENV": "PRODUCTION",
+    "POSTGRES_HOSTNAME": "rikiepatrick-message-database",
+    "POSTGRES_PASSWORD": "@YOURNAME-postgres-password"
+  }
+}
