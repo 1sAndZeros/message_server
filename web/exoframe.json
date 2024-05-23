@@ -5,6 +5,6 @@
   "env": {
     "APP_ENV": "PRODUCTION",
     "POSTGRES_HOSTNAME": "rikiepatrick-message-database",
-    "POSTGRES_PASSWORD": "@YOURNAME-postgres-password"
+    "POSTGRES_PASSWORD": "@rikiepatrick-postgres-password"
   }
 }
